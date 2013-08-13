@@ -1,0 +1,7 @@
+Spreadsheet for generating mixed 3 component Tersoff potentials for Lammps.
+
+Input in the upper segment (blue cells) are the standard Tersoff parameters,
+these parameters, along with the mixing factors are the input.
+
+The cells with peach indices, and the subsequent numbers are the input formatted
+in Lammps form. 
